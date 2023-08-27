@@ -19,7 +19,7 @@ if (password == passwordArray [i])
 if(valid)
 {
    alert("Login was successful");
-   window.location = "https://ambatucom.github.io/"
+   window.location = "https://elstyl3.github.io/"
    return false ;
 }
 var again = "tries";
